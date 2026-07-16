@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://pastefy.app/c1OOg4hr/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Waguriiiii/Murder-mystery-2/refs/heads/main/Waguri.lua"))()
